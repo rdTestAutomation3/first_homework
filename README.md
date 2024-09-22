@@ -1,3 +1,3 @@
 # first_homework
 
-the first changin on readme file.
+the first changing on readme file.
