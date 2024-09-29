@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<personels>
+    <personel id="1">
+        <name>Yağmur</name>
+        <surname>Tezcan</surname>
+        <age>29</age>
+        <date>2024-02-07</date>
+    </personel>
+    <personel id="2">
+        <name>Zeynep</name>
+        <surname>Gümüş</surname>
+        <age>28</age>
+        <date>2024-03-07</date>
+    </personel>
+</personels>
