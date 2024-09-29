@@ -1,0 +1,11 @@
+personels:
+  - personel:
+    name: Yağmur
+    surname: Tezcan
+    age: 29
+    date: 2024-02-07
+  - personel:
+    name: Zeynep
+    surname: Gümüş
+    age: 28
+    date: 2024-03-07
