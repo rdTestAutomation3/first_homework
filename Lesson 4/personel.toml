@@ -1,4 +1,4 @@
 personels=[
-    {name= "Yağmur", surname="Tezcan", age=29, date="2024-02-07"},
-    {name= "Zeynep", surname="Gümüş", age=28, date="2024-03-07"}
+    {id= 1, name= "Yağmur", surname= "Tezcan", age= 29, date= "2024-02-07"},
+    {id = 2, name= "Zeynep", surname= "Gümüş", age= 28, date= "2024-03-07"}
 ]
